@@ -1,5 +1,6 @@
 import prompt
 
-def welcome ():
-	name = prompt.string("Your name?")
-	print(f"Hello, {name}!")
+
+def welcome():
+    name = prompt.string("Your name?")
+    print(f"Hello, {name}!")

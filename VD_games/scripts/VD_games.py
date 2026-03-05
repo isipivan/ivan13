@@ -7,9 +7,9 @@ def start_game():
 
 def main():
     name = welcome()
-    print(f'Hello, {name}!')
+    print(f"Hello, {name}!")
     print(start_game())
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
